@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 720.00 720.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: none;'/>
+<text x='295.23' y='365.00' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='129.54px' lengthAdjust='spacingAndGlyphs'>knowledgeable</text>
+<text x='329.17' y='352.27' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='78.25px' lengthAdjust='spacingAndGlyphs'>activities</text>
+<text x='284.22' y='386.94' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='119.38px' lengthAdjust='spacingAndGlyphs'>computers</text>
+<text x='326.58' y='409.69' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='49.63px' lengthAdjust='spacingAndGlyphs'>field</text>
+<text x='353.42' y='336.85' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='59.86px' lengthAdjust='spacingAndGlyphs'>service</text>
+<text x='350.24' y='319.16' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='79.01px' lengthAdjust='spacingAndGlyphs'>language</text>
+<text x='361.76' y='301.27' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='62.33px' lengthAdjust='spacingAndGlyphs'>study</text>
+<text x='307.29' y='338.75' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='43.49px' lengthAdjust='spacingAndGlyphs'>learn</text>
+<text x='378.66' y='406.76' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='34.74px' lengthAdjust='spacingAndGlyphs'>new</text>
+<text transform='translate(348.52,321.41) rotate(-90)' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='59.09px' lengthAdjust='spacingAndGlyphs'>court</text>
+<text x='298.76' y='429.58' style='font-size: 27.43px; fill: #0E0705; font-family: Nobile;' textLength='47.44px' lengthAdjust='spacingAndGlyphs'>use</text>
+<text x='276.36' y='451.69' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='107.96px' lengthAdjust='spacingAndGlyphs'>computer</text>
+<text x='380.65' y='428.35' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='70.28px' lengthAdjust='spacingAndGlyphs'>learning</text>
+<text x='251.92' y='315.35' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='76.26px' lengthAdjust='spacingAndGlyphs'>interpret</text>
+<text x='255.44' y='406.56' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='62.74px' lengthAdjust='spacingAndGlyphs'>current</text>
+<text x='283.67' y='469.85' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='132.62px' lengthAdjust='spacingAndGlyphs'>comprehension</text>
+<text transform='translate(447.79,408.88) rotate(-90)' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='56.61px' lengthAdjust='spacingAndGlyphs'>clients</text>
+<text x='364.08' y='276.11' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='90.58px' lengthAdjust='spacingAndGlyphs'>effectively</text>
+<text transform='translate(280.18,366.27) rotate(-90)' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='47.82px' lengthAdjust='spacingAndGlyphs'>make</text>
+<text x='387.76' y='444.94' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='78.16px' lengthAdjust='spacingAndGlyphs'>practices</text>
+<text x='257.52' y='292.42' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='70.32px' lengthAdjust='spacingAndGlyphs'>improve</text>
+<text x='439.68' y='337.27' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='84.70px' lengthAdjust='spacingAndGlyphs'>probation</text>
+<text x='362.48' y='258.24' style='font-size: 48.00px; fill: #EEBF48; font-family: Nobile;' textLength='109.69px' lengthAdjust='spacingAndGlyphs'>data</text>
+<text x='225.18' y='383.63' style='font-size: 17.14px; fill: #193993; font-family: Nobile;' textLength='55.31px' lengthAdjust='spacingAndGlyphs'>jargon</text>
+<text x='226.05' y='255.77' style='font-size: 22.29px; fill: #9B9292; font-family: Nobile;' textLength='132.64px' lengthAdjust='spacingAndGlyphs'>department</text>
+</svg>

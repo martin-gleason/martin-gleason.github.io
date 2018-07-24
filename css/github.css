@@ -10,6 +10,7 @@
   --gold: #eebf48;
 }
 
+background-color: green;
 
 
 h1{
@@ -42,7 +43,7 @@ font-family: Lato, sans-serif;
 }
 
 a, a > code {
-	font-family: 'Nobile', sans-serif;
+	font-family: 'Nobile', sans-serif	;
   color: gold; 
   text-decoration: underline; 
   
