@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Nobile|Spectral|Lato');
 
 
-
 :root{
 
 	--blue: #193993;
@@ -40,6 +39,13 @@ font-family: Lato, sans-serif;
 	font-size: 1.5em;
 		text-rendering: optimizelegibility !important;
 
+}
+
+a, a > code {
+	font-family: 'Nobile', sans-serif;
+  color: gold; 
+  text-decoration: underline; 
+  
 }
 
 ul,ol,dl,p{
