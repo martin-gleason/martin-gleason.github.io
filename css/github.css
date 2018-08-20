@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Nobile|Spectral|Lato');
+
 :root{
 
 	--blue: #193993;
@@ -24,7 +25,7 @@ h1{
 
 h2{
 	font-family: Lato, sans-serif;
-	color:    #193993;
+	color: #193993;
 	font-size: 1.75em;
 	font-style: italic;
 	text-align: center;
@@ -57,8 +58,6 @@ p{
   text-size: 1rem;
 	text-align: left;
 }
-
-
 
 
 
