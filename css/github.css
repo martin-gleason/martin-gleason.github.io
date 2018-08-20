@@ -19,7 +19,6 @@ h1{
 	color:  #193993;
 	font-size: 1.9em;
 	text-align: center;
-		text-rendering: optimizelegibility !important;
 
 }
 
@@ -29,17 +28,15 @@ h2{
 	font-size: 1.75em;
 	font-style: italic;
 	text-align: center;
-		text-rendering: optimizelegibility !important;
-
+		
 }
 
 h3{
-font-family: Lato, sans-serif;
+	font-family: Lato, sans-serif;
 	color: #193993; 
 	font-style: italic;
 	text-align: center;
 	font-size: 1.5em;
-		text-rendering: optimizelegibility !important;
 
 }
 
