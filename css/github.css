@@ -40,6 +40,13 @@ h3{
 
 }
 
+img{
+	width: 300px;
+	height: 400px;
+	
+}
+
+
 a, a > code {
 	font-family: 'Nobile', sans-serif;
   color: var(--blue); 
